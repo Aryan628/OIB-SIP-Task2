@@ -1,6 +1,3 @@
-Certainly! Here's a basic README file for your BMI calculator Python script:
-
-```markdown
 # BMI Calculator
 
 This is a simple Python script for calculating Body Mass Index (BMI) based on user input for weight and height. It also classifies the BMI into different categories (Underweight, Normal, Overweight, Obese) and displays the result. The script provides an option to continue calculating BMI for additional inputs until the user decides to exit.
@@ -33,7 +30,7 @@ This is a simple Python script for calculating Body Mass Index (BMI) based on us
 3. Run the script:
 
    ```bash
-   python bmi_calculator.py
+   python BMI.py
    ```
 
 ## Contributing
