@@ -24,7 +24,7 @@ This is a simple Python script for calculating Body Mass Index (BMI) based on us
 2. Navigate to the project directory:
 
    ```bash
-   cd bmi-calculator
+   cd bmi_calculator
    ```
 
 3. Run the script:
